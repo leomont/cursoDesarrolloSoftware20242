@@ -47,7 +47,6 @@ El curso combina teoría y práctica, incluyendo:
 - Leonardo Montes https://www.linkedin.com/in/leonardo-montes-marin-bb71073b/
 
 ### Listado de estudiantes
-
 | Código | Nombre |
 |--------|--------|
 | 11385  | Jose Alexis Mejia |
@@ -61,12 +60,12 @@ El curso combina teoría y práctica, incluyendo:
 | 12460  | Juan Alejandro Velez Giraldo |
 | 14646  | Julián Andrés Tabares Jiménez |
 | 22069  | Miguel Angel Vargas |
-| 38946  | Luis Adolfo Botero [LinkedIn](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
-| 12345  | Cristian Camilo Llanos Blandon |
+| 40795  | Cristian Camilo Llanos Blandon |[LinkedIn] (https://www.linkedin.com/in/cristian-camilo-llanos-blandon-a21839148)|
+| 38946  | Luis Adolfo Botero [LinkedIn](https://www .linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
 | 38946  | Luis Adolfo Botero [LinkedIn](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
 | 26551  | Juan Manuel Franco Osorio |
 | 15434  | Diego Leandro Ramirez Rueda |
-| 18005  | Sebastian Valencia Soto | [LinkedIn](https://www.linkedin.com/in/sebastian-valenciasoto/) |
+| 18005  | Sebastian Valencia Soto  [LinkedIn](https://www.linkedin.com/in/sebastian-valenciasoto/) |
 | 27217  | Juan Jose Gabelo Vanegas | 
 | 27587  | Jesús David Reinoso Gualtero |
 | 14977  | Frank Esteban Murcia Cuartas [LinkedIn](https://www.linkedin.com/in/frank-murcia-71b5a1242/) |
