@@ -1,4 +1,4 @@
-# Curso: Desarrollo de Software Empresarial
+}# Curso: Desarrollo de Software Empresarial
 
 ## Universidad de Caldas
 
@@ -55,7 +55,6 @@ El curso combina teoría y práctica, incluyendo:
 | 16060  | Ana Milena Gonzalez |
 | 27002  | Juan Sebastian Londoño G |
 | 7708   | David Gustavo Hurtado Ramírez |
-| 14977  | Frank Esteban Murcia Cuartas [LinkedIn](https://www.linkedin.com/in/frank-murcia-71b5a1242/) |
 | 13213  | Mauricio Bohórquez Ardila |
 | 5427   | Kevin Arlex Osorio Gonzalez |
 | 12460  | Juan Alejandro Velez Giraldo |
@@ -63,11 +62,10 @@ El curso combina teoría y práctica, incluyendo:
 | 22069  | Miguel Angel Vargas |
 | 40795  | Cristian Camilo Llanos Blandon |[LinkedIn] (https://www.linkedin.com/in/cristian-camilo-llanos-blandon-a21839148)|
 | 38946  | Luis Adolfo Botero [LinkedIn](https://www .linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
-| 12345  | Cristian Camilo Llanos Blandon |
 | 38946  | Luis Adolfo Botero [LinkedIn](https://www.linkedin.com/in/luis-adolfo-botero-lópez-25912967) |
 | 26551  | Juan Manuel Franco Osorio |
 | 15434  | Diego Leandro Ramirez Rueda |
-| 18005  | Sebastian Valencia Soto | [LinkedIn](https://www.linkedin.com/in/sebastian-valenciasoto/) |
+| 18005  | Sebastian Valencia Soto  [LinkedIn](https://www.linkedin.com/in/sebastian-valenciasoto/) |
 | 27217  | Juan Jose Gabelo Vanegas | 
 | 27587  | Jesús David Reinoso Gualtero |
 | 14977  | Frank Esteban Murcia Cuartas [LinkedIn](https://www.linkedin.com/in/frank-murcia-71b5a1242/) |
