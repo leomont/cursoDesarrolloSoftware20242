@@ -56,7 +56,6 @@ El curso combina teoría y práctica, incluyendo:
 | 27002  | Juan Sebastian Londoño G |
 | 7708   | David Gustavo Hurtado Ramírez |
 | 13213  | Mauricio Bohórquez Ardila |
-| 5427   | Kevin Arlex Osorio Gonzalez |
 | 12460  | Juan Alejandro Velez Giraldo |
 | 14646  | Julián Andrés Tabares Jiménez |
 | 22069  | Miguel Angel Vargas |
@@ -70,5 +69,5 @@ El curso combina teoría y práctica, incluyendo:
 | 27587  | Jesús David Reinoso Gualtero |
 | 14977  | Frank Esteban Murcia Cuartas [LinkedIn](https://www.linkedin.com/in/frank-murcia-71b5a1242/) |
 | 7007   | sebastian arias |
-
+| 5427   | Kevin Arlex Osorio Gonzalez |
 Este curso prepara a los estudiantes para enfrentar los retos del desarrollo de software en el mundo empresarial moderno, equipándolos con las habilidades técnicas y de gestión necesarias para sobresalir en la industria.
